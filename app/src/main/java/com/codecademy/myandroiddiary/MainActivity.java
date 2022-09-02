@@ -17,3 +17,4 @@ public class MainActivity extends AppCompatActivity {
         Log.i(TAG, "I am a loggin pro!");
     }
 }
+
